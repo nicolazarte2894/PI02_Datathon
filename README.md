@@ -1,4 +1,4 @@
-## **_PROYECTO INDIVIDUAL 01 - DATA ENGINEER_**
+## **\_PROYECTO INDIVIDUAL 02 - Machine Learning**
 
 ---
 
